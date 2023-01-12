@@ -51,11 +51,11 @@
             ΑΡΝΗΤΙΚΑ = ΛΕΙΤΟΥΡΓΕΙ ΜΟΝΟ ΜΕ ΚΑΜΕΡΑ 
 # 3rd Deliverable 
 ΣΤΟ ΤΡΙΤΟ ΠΑΡΑΔΟΤΕΟ ΚΑΤΕΒΑΣΑ ΤΙΣ ΒΙΒΛΙΟΘΗΚΕΣ ΚΑΙ ΕΠΕΙΤΑ ΡΥΘΜΙΣΑ ΩΣΤΕ ΝΑ ΠΕΡΙΣΤΡΕΦΕΤΑΙ, ΝΑ ΜΕΓΕΝΘΥΝΕΤΑΙ , ΝΑ ΑΛΛΑΖΕΙ ΤΟ ΜΠΛΕ ΚΑΙ ΤΟ ΠΡΑΣΙΝΟ ΤΗΣ ΕΙΚΟΝΑΣ 
+[](../dpsdXXXXX/Screenshot%20(14).png)
+ [](../dpsdXXXXX/Screenshot%20(11).png)
+  [](../dpsdXXXXX/Screenshot%20(12).png)
+   ![](../dpsdXXXXX/Screenshot%20(13).png) 
 
-![](../../../../My%20Documents/My%20Pictures/Screenshots/Screenshot%20(11).png)
-![](../../../../My%20Documents/My%20Pictures/Screenshots/Screenshot%20(12).png)
-![](../../../../My%20Documents/My%20Pictures/Screenshots/Screenshot%20(13).png)
-![](../../../../My%20Documents/My%20Pictures/Screenshots/Screenshot%20(14).png)
 ΕΡΩΤΗΣΗ:Σε ποια φάση της σχεδίασης και ανάπτυξης του υλικό/λογισμικού της διάδρασης θα διαλέγατε την κανονική κάμερα ή τον προσομοιωτή?
 
 ΑΠΑΝΤΗΣΗ:ΣΤΗΝ ΔΙΑΔΙΚΑΣΙΑ ΤΗΣ ΣΧΕΔΙΑΣΗΣ ΧΡΗΣΙΜΟΠΟΙΟΥΜΕ ΤΟΝ ΠΡΟΣΟΜΟΙΩΤΗ ΚΑΙ ΣΤΗΝ ΔΙΑΔΙΚΑΣΙΑ ΤΗΣ ΠΡΩΤΟΤΥΠΟΠΟΙΗΣΗΣ ΧΡΗΣΙΜΟΠΟΙΟΥΜΕ ΤΗΝ ΚΑΜΕΡΑ 
